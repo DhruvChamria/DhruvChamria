@@ -27,7 +27,7 @@ The best way to understand something is to build it yourself.
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ Git-like Version Control System
+### 🗂️ [Git-like Version Control System](https://github.com/DhruvChamria/gitlite)
 **`Python`**
 
 Built a distributed VCS from scratch. Supports repo init, commit tracking, branching, and diff. Uses SHA-1 content-addressable storage and replicates core Git internals: blob/tree object model, checkout, log.
@@ -35,7 +35,7 @@ Built a distributed VCS from scratch. Supports repo init, commit tracking, branc
 </td>
 <td width="50%" valign="top">
 
-### 💻 Real-Time Collaborative Code Editor
+### 💻 [Real-Time Collaborative Code Editor](https://github.com/DhruvChamria/Collab-editor)
 **`Node.js · WebSockets · JavaScript`**
 
 Multi-user code editor with sub-100ms edit sync. Handles concurrent sessions via WebSocket broadcasting and server-side conflict resolution, with zero data loss.
